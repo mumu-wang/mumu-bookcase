@@ -1,2 +1,2 @@
-# mumu-s-bookcase
+# mumu-bookcase
 This is Mumu's reading notes repository
